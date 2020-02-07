@@ -1,2 +1,2 @@
-# hitheadhead.github.io
+# hitheadhead
 Let's Hit
